@@ -1,0 +1,14 @@
+.flex { display: flex; }
+
+.any-width { width: 100%; }
+.any-height { height: 100%; }
+
+.main-bg { background-color: var(--bg); }
+
+.main-color { color: var(--color-0) !important; }
+
+.pointer { cursor: pointer; }
+
+.hover:hover { background-color: var(--color-1) !important; transition: background-color 0.4s; }
+
+.note i { color: var(--bg); font-size: 12px; }

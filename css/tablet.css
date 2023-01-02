@@ -1,0 +1,14 @@
+/** #MEDIA QUERIES > tablette version */ 
+
+@media screen and (max-width: 991px)
+{
+    #hosting { flex-wrap: wrap; }
+
+    #article-container-2 { flex-direction: row; }
+    #article-container-2>article { width: 31%; }
+    #article-container-2 div { padding: 10px 19px; }
+
+    #article-container-3>a { height: 267px; }
+    #article-container-3 img { height: 80%; }
+    #article-container-3 figcaption { height: 20%; }
+}
