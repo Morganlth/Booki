@@ -11,4 +11,4 @@
 
 .hover:hover { background-color: var(--color-1) !important; transition: background-color 0.4s; }
 
-.note i { color: var(--bg); font-size: 12px; }
+.star-list i { color: var(--bg); font-size: 12px; }
